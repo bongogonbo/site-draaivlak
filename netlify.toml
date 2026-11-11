@@ -1,0 +1,4 @@
+# Netlify: publiceer de map site/, geen build-stap.
+[build]
+  publish = "site"
+  command = ""
