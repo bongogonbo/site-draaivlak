@@ -1,0 +1,15 @@
+Archivo (700, 800) - SIL Open Font License 1.1
+Copyright 2020 The Archivo Project Authors (https://github.com/Omnibus-Type/Archivo)
+
+This Font Software is licensed under the SIL Open Font License, Version 1.1.
+This license is copied below, and is also available with a FAQ at:
+http://scripts.sil.org/OFL
+
+IBM Plex Sans (300, 400, 500) - SIL Open Font License 1.1
+Copyright 2018 IBM Corp. All rights reserved.
+
+This Font Software is licensed under the SIL Open Font License, Version 1.1.
+This license is copied below, and is also available with a FAQ at:
+http://scripts.sil.org/OFL
+
+Volledige tekst: https://openfontlicense.org

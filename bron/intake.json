@@ -1,5 +1,94 @@
 {
-  "_let_op": "Vul in vanuit het aanvraagformulier. Zie het voorbeeld in het Claude-project.",
-  "site_id": null,
-  "webhook_url": null
+  "_let_op": "Proefrun: alle gegevens zijn verzonnen. Geen echt bedrijf.",
+  "site_id": "proef-draaivlak",
+  "webhook_url": null,
+  "bedrijf": {
+    "handelsnaam": "Draaivlak",
+    "rechtsvorm": "bv",
+    "kvk": "98765432",
+    "btw_id": "NL867530912B01",
+    "vestigingsadres": "Kanaalweg 41, 5347 KJ Oss",
+    "branche": "anders: draaiplateaus en fotostudio's voor auto's",
+    "sinds": "2014"
+  },
+  "waar": {
+    "plaats": "Oss",
+    "werkgebied": "Nederland en België",
+    "klanten": "bedrijven",
+    "leeftijd": "35–60",
+    "anders": "Wij ontwerpen en bouwen de plateaus zelf in onze werkplaats in Oss. Daardoor maken we elk plateau op maat van de vloer, de ruimte en het gewicht, en komt de monteur die plaatst ook voor het onderhoud."
+  },
+  "imago": {
+    "woorden": "precies, degelijk, technisch",
+    "gevoel": "onder de indruk",
+    "doen": ["offerte aanvragen", "werk bekijken"],
+    "snelheid": "gepland"
+  },
+  "aanbod": {
+    "diensten": [
+      { "naam": "Draaiplateaus voor showrooms", "uitleg": "Elektrisch aangedreven plateaus om in de vloer te bouwen of op de vloer te zetten, voor auto's tot 3.500 kg." },
+      { "naam": "Fotostudio's voor auto's", "uitleg": "Een complete studio met hoekloze achterwand, verlichting en draaiplateau, zodat een dealer zelf zijn voorraad fotografeert." },
+      { "naam": "Plaatsing en instructie", "uitleg": "Wij plaatsen het plateau, sluiten het aan en leren uw team ermee werken." },
+      { "naam": "Onderhoud en service", "uitleg": "Een jaarlijkse controle van aandrijving en besturing, en hulp bij storingen." }
+    ],
+    "prijzen": "Op offerte. Elk plateau wordt op maat gemaakt.",
+    "verkoop_op_afstand": "nee",
+    "voorwaarden": "nee",
+    "keurmerken": "Geen keurmerken of beroepsregistratie.",
+    "allergenen": null
+  },
+  "cijfers": [
+    { "waarde": "Ruim 180 draaiplateaus geplaatst", "getal": 180, "voorvoegsel": "Ruim", "eenheid": "draaiplateaus geplaatst", "basis": "Eigen projectadministratie 2014–2026", "peildatum": "oktober 2026" },
+    { "waarde": "4,9 uit 5 op Google", "getal": 4.9, "eenheid": "uit 5 op Google", "basis": "41 beoordelingen op Google", "peildatum": "oktober 2026" }
+  ],
+  "verhaal": {
+    "begin": "Ruud begon in 2014 als constructiebankwerker met één plateau voor een garage in de buurt. Dealers zagen het staan en vroegen er zelf een. Inmiddels bouwt een klein team de plateaus en studio's in de eigen werkplaats.",
+    "projecten": [
+      {
+        "plaats": "Eindhoven, fotostudio bij een autodealer (2025)",
+        "vraag": "De dealer liet zijn occasions buiten fotograferen. Elke auto zag er anders uit, afhankelijk van het weer.",
+        "aanpak": "We bouwden in een lege werkplaats een studio met hoekloze achterwand, vaste verlichting en een plateau van 5 meter.",
+        "resultaat": "Elke auto wordt nu binnen in dezelfde opstelling gefotografeerd, met hetzelfde licht."
+      }
+    ],
+    "werkwijze": ["Kennismaking", "Meten op locatie", "Offerte", "Bouw in de werkplaats", "Plaatsing en instructie"]
+  },
+  "contact": {
+    "telefoon": "0412 820 430",
+    "email": "info@draaivlak.example",
+    "whatsapp": false,
+    "whatsapp_nr": null,
+    "bereikbaarheid": "Maandag t/m vrijdag 8.00–17.00",
+    "onderwerpen": ["Offerte draaiplateau", "Offerte fotostudio", "Onderhoud of storing", "Andere vraag"]
+  },
+  "beeld": {
+    "logo": null,
+    "kleuren": ["#F2A900"],
+    "licht_donker": "donker",
+    "sfeer": ["strak-technisch"],
+    "portret": null,
+    "soorten_fotos": ["eindresultaat", "detail", "bus of werkplaats"],
+    "eigen_fotos": [],
+    "fotos_laten_maken": "ja",
+    "voorbeeldsites": "Geen links. Ze vinden sites mooi waar het product groot en scherp in beeld staat, met weinig tekst.",
+    "concurrenten": "Andere leveranciers van draaiplateaus in Nederland en Duitsland. Geen links verzameld.",
+    "absoluut_niet": "Geen glimmende autoreclame, geen stockfoto's van lachende verkopers, geen cookiebanner.",
+    "toon_formeel": 3,
+    "toon_serieus": 2
+  },
+  "reviews": {
+    "items": [
+      { "tekst": "Plateau staat er nu twee jaar en draait elke dag zonder één storing. Plaatsing was in één dag klaar.", "naam": "P. van Dijk", "datum": "14 maart 2026", "bron": "Google" },
+      { "tekst": "Onze foto's zien er eindelijk allemaal hetzelfde uit. Ruud dacht mee over het licht, niet alleen over het plateau.", "naam": "S. Jansen", "datum": "2 september 2026", "bron": "Google" }
+    ],
+    "verzameld": "Google",
+    "link": "https://g.page/r/draaivlak-proef/review"
+  },
+  "domein": {
+    "bestaand": "draaivlak.example",
+    "bestaande_site": null
+  },
+  "blokkades": [
+    "Algemene voorwaarden ontbreken (voorwaarden: nee). De site kan niet live."
+  ]
 }

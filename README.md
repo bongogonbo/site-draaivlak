@@ -1,6 +1,6 @@
-# Website [bedrijfsnaam]
+# Website Draaivlak
 
-Deze repository bevat de complete website van [bedrijfsnaam]. De site is statisch: alleen HTML, CSS en een beetje JavaScript, zonder database of build-stap. Elke webhost die bestanden kan serveren, kan hem draaien.
+Deze repository bevat de complete website van Draaivlak. De site is statisch: alleen HTML, CSS en een beetje JavaScript, zonder database of build-stap. Elke webhost die bestanden kan serveren, kan hem draaien.
 
 ## Indeling
 
