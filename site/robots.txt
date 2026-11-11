@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+Disallow: /bedankt.html
+Sitemap: https://draaivlak.example/sitemap.xml
